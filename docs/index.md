@@ -7,5 +7,6 @@ This repo is a collection of various public resources regarding them.
 ## Resources
 
 * [Language](lang/index.md)
-  * [Dictionary](dict/index.md)
+  * [Reference](lang/ref/index.md)
+  * [Dictionary](lang/dict/index.md)
 * [Lore](lore.md)
