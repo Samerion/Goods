@@ -43,4 +43,5 @@ spellings is available below.
 * p — \[p\] [Voiceless bilabial stop](https://en.wikipedia.org/wiki/Voiceless_bilabial_stop)
 * r — \[r\] [Voiced alveolar trill](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)
 * s — \[s\] [Voiceless dental sibilant](https://en.wikipedia.org/wiki/Voiceless_dental_sibilant)
+* t — \[t\] [Voiceless dental stop](https://en.wikipedia.org/wiki/Voiceless_dental_stop)
 * w — \[w\] [Voiced labio-velar](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)

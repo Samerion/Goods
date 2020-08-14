@@ -61,5 +61,6 @@ Other
 
 1. Short vertical line (suffix -i) — Same as ike, but changes context to given verb.
 2. Middle dot ("at") — Separates sentences and words.
+3. Line connecting words ("fu") — Limit the word's meaning to make it less broad.
 
 TODO: Add images and examples
