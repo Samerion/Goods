@@ -8,3 +8,7 @@ syntax and an entirely new list of words.
 
 * [Reading Goodish](ref/reading.md)
 * [Basic syntax](ref/syntax.md)
+
+### Miscelleanous
+
+* [Reference sheet](ref/sheet.md)
