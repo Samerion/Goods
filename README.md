@@ -6,8 +6,8 @@ Various emoticons and other resources related to the Goods, a race from the Same
 
 ## Contents
 
-* [Resources about Goods](https://soaku.github.io/Goods)
-* [Images](https://github.com/Soaku/Goods/tree/master/images)
+* [Resources about Goods](https://samerion.github.io/Goods)
+* [Images](https://github.com/samerion/Goods/tree/master/images)
 
 ## Credit
 
