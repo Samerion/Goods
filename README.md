@@ -2,4 +2,17 @@
 
 # Goods
 
-Various emoticons and other images related to the Goods, a race from the Samerion.
+Various emoticons and other resources related to the Goods, a race from the Samerion.
+
+## Contents
+
+* [Resources about Goods](https://soaku.github.io/Goods)
+* [Images](https://github.com/Soaku/Goods/tree/master/images)
+
+## Credit
+
+All files in the repo are licensed under [CC 3.0 BY-SA](LICENSE), which requires you to provide credit to their
+authors. Authors are listed as below:
+
+* [Good diamond](images/large/gooddiamond.png) by @the4saken1.
+* All remaining files have been made by @Soaku.
