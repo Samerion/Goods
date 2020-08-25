@@ -4,7 +4,7 @@
 
 Gu words are represented by a circle. They often refer to various races, species and related objects.
 
-* [Gu](#gu) — Me / Be somewhere.
+* [Gu](#gu) — Me / Be somewhere.
 
 Lines:
 

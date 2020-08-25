@@ -14,7 +14,7 @@ Each sentence always begins with its subjects. Those are then followed with thei
 In the case above, the subject is "gu" (which means "me"). "iga" could be interpreted as "is" (or "am" in this case),
 but its actual role is to tell us what the next words are, as Goodish reuses words by putting them in categories.
 
-> gu — "Me" \
+> gu — "Me" \
 > iga — The next word is an iga-word. \
 > guud — "Good"
 
@@ -30,4 +30,25 @@ If we replaced "iga" with, "ike" for example, "guud" would then mean something c
 We can describe the subject with words from multiple different categories.
 
 > gu iga guud ike gu [gukop](../dict/gu.md#gukop) \
-> *I'm a good and I'm here, eating* (imprecise)
+> *I'm a good and I'm here, resting*
+
+We could split the above sentence to better understand how it works:
+
+> * gu — Me
+>   * iga — (noun)
+>     * guud — Good
+>   * ike — (verb)
+>     * gu — To be [here]
+>     * gukop — To rest
+
+You can notice the syntax of Goodish can easily be split into a tree. The subject makes is the root, then categories,
+then specific words.
+
+See [Reference sheets](sheets.md#action-types-and-categories) for a list of all categories. Look at the "primary"
+column.
+
+## Specfifying details
+
+Additional details can be added to words by using secondary category words.
+
+> gu ike gu

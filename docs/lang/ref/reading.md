@@ -33,15 +33,15 @@ spellings is available below.
 
 ### Consonants
 
-* b — \[b\] [Voiced bilabial stop](https://en.wikipedia.org/wiki/Voiced_bilabial_stop)
+* b — \[b\] [Voiced bilabial stop](https://en.wikipedia.org/wiki/Voiced_bilabial_stop)
 * d — \[d\] [Voiced dental stop](https://en.wikipedia.org/wiki/Voiced_dental_stop)
 * f — \[f\] [Voiceless labiodental fricative](https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative)
 * g — \[ɡ\] [Voiced velar stop](https://en.wikipedia.org/wiki/Voiced_velar_stop)
 * k — \[k\] [Voiceless velar stop](https://en.wikipedia.org/wiki/Voiceless_velar_stop)
 * l — \[l\] [Voiced alveolar lateral approximant](https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_approximant)
-* n — \[n\] [Voiced dental nasal](https://en.wikipedia.org/wiki/Voiced_dental_nasal)
-* p — \[p\] [Voiceless bilabial stop](https://en.wikipedia.org/wiki/Voiceless_bilabial_stop)
-* r — \[r\] [Voiced alveolar trill](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)
+* n — \[n\] [Voiced dental nasal](https://en.wikipedia.org/wiki/Voiced_dental_nasal)
+* p — \[p\] [Voiceless bilabial stop](https://en.wikipedia.org/wiki/Voiceless_bilabial_stop)
+* r — \[r\] [Voiced alveolar trill](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)
 * s — \[s\] [Voiceless dental sibilant](https://en.wikipedia.org/wiki/Voiceless_dental_sibilant)
 * t — \[t\] [Voiceless dental stop](https://en.wikipedia.org/wiki/Voiceless_dental_stop)
 * w — \[w\] [Voiced labio-velar](https://en.wikipedia.org/wiki/Voiced_labio-velar_approximant)
