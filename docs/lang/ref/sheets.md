@@ -19,8 +19,8 @@ Single lines
 
 * -ka (vertical)
 * -kaf (horizontal)
-* -ks (top right to bottom left)
-* -kan (top left to bottom right)
+* -ks (top left to bottom right)
+* -kan (top right to bottom left)
 
 Double lines
 
@@ -59,7 +59,7 @@ Other
 
 ## Syntax features
 
-1. Short vertical line (suffix -i) — Same as ike, but changes context to given verb.
+1. Short vertical line (suffix -i) — Same as ike, but changes context to given word.
 2. Middle dot ("at") — Separates sentences and words.
 3. Line connecting words ("fu") — Limit the word's meaning to make it less broad.
 

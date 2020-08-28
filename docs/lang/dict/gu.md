@@ -9,7 +9,7 @@ Gu words are represented by a circle. They often refer to various races, species
 Lines:
 
 * [Guka](#guka) — You ([Variable]) / Go somewhere.
-* [Gukop](#gukop) — [Variable] / Eat, drink or rest.
+* [Gukop](#gukop) — [Variable] / Rest.
 
 Double lines:
 
@@ -17,15 +17,15 @@ Double lines:
 
 Arrows:
 
-* [Guud](#guud) — A good / Talk.
-* [Guur](#guur) — A god / Trade.
-* [Guus](#guus) — A humanoid / Fight.
-* [Guun](#guun) — An animal.
+* [Guud](#guud) — A good / Talk.
+* [Guur](#guur) — A god / Trade.
+* [Guus](#guus) — A humanoid / Fight.
+* [Guun](#guun) — An animal / Eat or drink.
 
 Other:
 
-* [Gusa](#gusa) — [Variable] for leaving out unknown information.
-* [Gusi](#gusi) — [Variable] for forming questions and answers.
+* [Gusa](#gusa) — [Variable] for leaving out unknown information.
+* [Gusi](#gusi) — [Variable] for forming questions and answers.
 
 
 Gu
@@ -72,6 +72,7 @@ Symbol: circle with a vertical line inside.
 
 1. Going to somewhere (*igi*).
 2. Moving; changing position.
+3. Travel, walk.
 
 
 Gukop
@@ -90,7 +91,6 @@ Symbol: Circle with a horizontal line inside.
 *Verb*
 
 1. To sleep or rest; to sleep or rest in something or somewhere (*igi*).
-2. To eat or drink something (*igi*).
 
 
 Guke
@@ -183,6 +183,12 @@ Symbol: circle with two lines inside, joined on the right, both directed towards
 *Noun*
 
 1. An animal.
+
+### Ike
+
+*Verb*
+
+1. Eat or drink something (*igi*)
 
 
 Gusa
