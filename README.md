@@ -2,7 +2,12 @@
 
 # Goods
 
-Various emoticons and other resources related to the Goods, a race from the Samerion.
+Various emoticons and other resources related to the Goods, a race from Samerion.
+
+Some images are based on [Twemoji](https://github.com/Twitter/Twemoji) by Twitter, licensed under
+[CC 4.0 BY][twitter-license].
+
+[twitter-license]: https://creativecommons.org/licenses/by/4.0/
 
 ## Contents
 
