@@ -13,10 +13,11 @@ Lines:
 * [Kuka](#kuka) — The surface / Destroy, kill.
 * [Kukaf](#kukaf) — Caves, the underground / Dig, make space.
 * [Kuks](#kuks) — A building / Build, create.
+* [Kukan](#kukan) — Area, zone.
 
 Arrows:
 
 * [Kuur](#kuur) — House / Have free time.
 * [Kuud](#kuud) — A shop or marketplace / Inspire, base upon.
 * [Kuus](#kuus) — Workplace / Work, focus.
-* [Kuun](#kuun) — Dining room, restaurant.
+* [Kuun](#kuun) — Dining room, restaurant / Eat or drink.

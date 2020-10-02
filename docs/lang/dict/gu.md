@@ -20,7 +20,7 @@ Arrows:
 * [Guud](#guud) — A good / Talk.
 * [Guur](#guur) — A god / Trade.
 * [Guus](#guus) — A humanoid / Fight.
-* [Guun](#guun) — An animal / Eat or drink.
+* [Guun](#guun) — An animal / Want something.
 
 Other:
 
@@ -146,7 +146,7 @@ Symbol: circle with two lines inside, joined on the top, both directed towards "
 
 *Verb*
 
-1. Trade; buy or sell something (*igi*).
+1. Trade; sell something (*igi*).
 
 **Hint:** Specify who you're trading with by using along with [guud](#guud)
 
@@ -188,7 +188,8 @@ Symbol: circle with two lines inside, joined on the right, both directed towards
 
 *Verb*
 
-1. Eat or drink something (*igi*)
+1. To want something (*igi*)
+2. To buy something (*igi)
 
 
 Gusa
@@ -245,7 +246,7 @@ Symbol: circle with the "x" sign inside.
 
 1. Denotes a yes or no question.
 
-   > gukai wu piwusi? \
+   > gukai wu pigusi? \
    > *Are you here?*
 
 [Variable]: ../ref/variables.md
